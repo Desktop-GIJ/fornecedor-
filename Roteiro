@@ -1,0 +1,49 @@
+Ola, seja bem vindo ao prototipo do nosso sistema de auxilio a compra de material
+do fornecedor para o mercado vareista, nele voce podera quantificar as compras de
+sua empresa gerindo o estoque e tendo total controle das atividades da mesma.
+O sistema armazenara todos os clientes de fornecedores.
+junto a isso tambem todos os produtos de cada um dos fornecedores.
+Primeiro entraremos como admin para poder cadastrar esse mercado no nosso sistema.
+
+TELA DE LOGIN:
+Nessa tela onde podemos logar como admin tbm.
+Depois é so logar com o login do mercado.
+*loga no login*
+
+TELA INICIAL:
+Essa é a tela inicial e nela é onde o dono escolhe qual funcionalidade ele quer
+usar no momento, tipo triangulo é a aba de fornecedor (na qual ta selecionada agr)
+e logo do lado produto, mais ao lado seria financeiro, dps outras funcionalidades.
+
+Nessa tela podemos ver os acessos iniciais verdes, acesso a site de fornecedor,
+configurações, central, funcionarios e ele podera adicionar outras funcionalidades
+do sistema na tela inicial, para isso ele precisara ligar para nosso suporte para
+podermos adicionar e configurar a funcionalidade desejada.
+
+Do lado esquerdo tem a pesquisa de fornecedores onde ele ja escolheu a pesquisa
+pela região bahia, e os fornecedores que ele tem por enquanto são esses.
+Ele pode clicar e entrar e fazer o pedido no fornecedor que quizer, ou ele pode
+adicionar outros fornecedores.
+
+CADASTRO DE FORNECEDORES:
+Essa tela que ira abrir quando ele clicar para adicionar um novo fornecedor,
+onde tem as infomações para cadastro (codigo, nome, endereço, cnpj, telefone,
+e tem os botoes do sistema aqui em baixo, novo, alterar, cancelar...).
+
+TELA DE ALTERAR:
+Essa janela flutuante ira abrir caso ele queira alterar algo ja feito.
+
+esse campo como é um pouco delicado ele pedira sua senha novamente caso voce ja
+tenha permisao para alterar, caso nao tenha tera que pedir para seu superior
+para alterar, mas é posivel nas configurações alterar para quais pessoas vao
+ter acesso a essa funcionalidade ou se todos poderao.
+isso pode ser configurado com a ajuda do nosso suporte, ou na hora do cadastro do
+mercado, onde fazemos as configurações iniciais(de acordo com os desejos do mercado).
+
+CADASTRO DE PRODUTOS:
+Do lado do triangulo na pagina inicial abre esse campo de cadastro de produto,
+onde ira ter essas opções.
+
+FINALIZAÇÃO:
+E esse é nosso prototipo, e lembrando que isso é so um prototipo, algumas coisas estao incompletas e outras
+poderao ter alguma alteração no futuro, obrigado.
